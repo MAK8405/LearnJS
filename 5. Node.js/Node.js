@@ -1,3 +1,3 @@
 import { readFile } from "3.promises";
 
-readFile("./the-anatomy-of-the-state.txt");
+readFile("./the-anatomy-of-the-state.txt", "utf-8");
